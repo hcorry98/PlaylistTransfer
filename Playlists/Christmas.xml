@@ -1,0 +1,3586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-04-03T17:54:02Z</date>
+	<key>Application Version</key><string>1.2.2.40</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/huntercorry/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>FAEE94B9A57EB6B0</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4031</key>
+		<dict>
+			<key>Track ID</key><integer>4031</integer>
+			<key>Name</key><string>Like It's Christmas</string>
+			<key>Artist</key><string>Jonas Brothers</string>
+			<key>Album Artist</key><string>Jonas Brothers</string>
+			<key>Composer</key><string>Gian Stone, Freddy Wexler, Jason Evigan, Annika Wells, Nick Jonas, Joe Jonas &#38; Kevin Jonas</string>
+			<key>Album</key><string>Like It's Christmas - Single</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7304598</integer>
+			<key>Total Time</key><integer>200873</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-08T15:33:53Z</date>
+			<key>Date Added</key><date>2019-11-08T15:33:53Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3721053252</integer>
+			<key>Play Date UTC</key><date>2021-11-30T00:54:12Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2020-12-15T05:05:32Z</date>
+			<key>Release Date</key><date>2019-11-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Like It's Christmas - Single</string>
+			<key>Sort Artist</key><string>Jonas Brothers</string>
+			<key>Sort Name</key><string>Like It's Christmas</string>
+			<key>Persistent ID</key><string>81191ACE841BC85C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4037</key>
+		<dict>
+			<key>Track ID</key><integer>4037</integer>
+			<key>Name</key><string>The Christmas Song</string>
+			<key>Artist</key><string>Thomas Rhett</string>
+			<key>Album Artist</key><string>Thomas Rhett</string>
+			<key>Composer</key><string>Mel Tormé &#38; Robert Wells</string>
+			<key>Album</key><string>Christmas in the Country - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7810227</integer>
+			<key>Total Time</key><integer>220794</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-20T15:39:18Z</date>
+			<key>Date Added</key><date>2019-11-20T15:39:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3723206731</integer>
+			<key>Play Date UTC</key><date>2021-12-24T23:05:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-24T21:14:16Z</date>
+			<key>Release Date</key><date>2019-11-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas in the Country - Single</string>
+			<key>Sort Artist</key><string>Thomas Rhett</string>
+			<key>Sort Name</key><string>Christmas Song</string>
+			<key>Persistent ID</key><string>C7E50CDC9F10865A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4040</key>
+		<dict>
+			<key>Track ID</key><integer>4040</integer>
+			<key>Name</key><string>Christmas in the Country</string>
+			<key>Artist</key><string>Thomas Rhett</string>
+			<key>Album Artist</key><string>Thomas Rhett</string>
+			<key>Composer</key><string>Thomas Rhett, David Garcia, Ashley Gorley &#38; Chris Tomlin</string>
+			<key>Album</key><string>Christmas in the Country - Single</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7570259</integer>
+			<key>Total Time</key><integer>205587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-20T15:39:18Z</date>
+			<key>Date Added</key><date>2019-11-20T15:39:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3723144844</integer>
+			<key>Play Date UTC</key><date>2021-12-24T05:54:04Z</date>
+			<key>Release Date</key><date>2019-11-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas in the Country - Single</string>
+			<key>Sort Artist</key><string>Thomas Rhett</string>
+			<key>Sort Name</key><string>Christmas in the Country</string>
+			<key>Persistent ID</key><string>F57634D50AA8E993</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4046</key>
+		<dict>
+			<key>Track ID</key><integer>4046</integer>
+			<key>Name</key><string>Let It Snow! Let It Snow! Let It Snow!</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Sammy Cahn &#38; Jule Styne</string>
+			<key>Album</key><string>A Pentatonix Christmas (Deluxe)</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4397710</integer>
+			<key>Total Time</key><integer>120622</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:06Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3720778073</integer>
+			<key>Play Date UTC</key><date>2021-11-26T20:27:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-11-20T06:54:15Z</date>
+			<key>Release Date</key><date>2017-10-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pentatonix Christmas (Deluxe)</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Let It Snow! Let It Snow! Let It Snow!</string>
+			<key>Persistent ID</key><string>36280F11FD4505DD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4049</key>
+		<dict>
+			<key>Track ID</key><integer>4049</integer>
+			<key>Name</key><string>Away In a Manger</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>A Pentatonix Christmas (Deluxe)</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6545746</integer>
+			<key>Total Time</key><integer>184672</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:06Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3723196775</integer>
+			<key>Play Date UTC</key><date>2021-12-24T20:19:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-10T04:02:49Z</date>
+			<key>Release Date</key><date>2017-10-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pentatonix Christmas (Deluxe)</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Away In a Manger</string>
+			<key>Persistent ID</key><string>1E877F475EB8AD47</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4052</key>
+		<dict>
+			<key>Track ID</key><integer>4052</integer>
+			<key>Name</key><string>Merry Christmas, Happy Holidays</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>JC Chasez, Justin Timberlake, Veit Renn &#38; Vincent Paul Degiorgio</string>
+			<key>Album</key><string>A Pentatonix Christmas (Deluxe)</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8235084</integer>
+			<key>Total Time</key><integer>237253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:06Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3689907615</integer>
+			<key>Play Date UTC</key><date>2020-12-04T13:20:15Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-11-27T18:48:59Z</date>
+			<key>Release Date</key><date>2016-10-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pentatonix Christmas (Deluxe)</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Merry Christmas, Happy Holidays</string>
+			<key>Persistent ID</key><string>3AE6AD4E926D9FD2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4055</key>
+		<dict>
+			<key>Track ID</key><integer>4055</integer>
+			<key>Name</key><string>Deck the Halls</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>A Pentatonix Christmas (Deluxe)</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5989947</integer>
+			<key>Total Time</key><integer>166587</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:06Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3690097577</integer>
+			<key>Play Date UTC</key><date>2020-12-06T18:06:17Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-11-27T18:11:47Z</date>
+			<key>Release Date</key><date>2017-10-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pentatonix Christmas (Deluxe)</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Deck the Halls</string>
+			<key>Persistent ID</key><string>7AE5656494A20DE3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4058</key>
+		<dict>
+			<key>Track ID</key><integer>4058</integer>
+			<key>Name</key><string>O Come, All Ye Faithful</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>A Pentatonix Christmas (Deluxe)</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7625173</integer>
+			<key>Total Time</key><integer>215963</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:06Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3690097793</integer>
+			<key>Play Date UTC</key><date>2020-12-06T18:09:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T18:41:16Z</date>
+			<key>Release Date</key><date>2016-10-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pentatonix Christmas (Deluxe)</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>O Come, All Ye Faithful</string>
+			<key>Persistent ID</key><string>16044F495E652322</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4064</key>
+		<dict>
+			<key>Track ID</key><integer>4064</integer>
+			<key>Name</key><string>Up On the Housetop</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>A Pentatonix Christmas (Deluxe)</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4915822</integer>
+			<key>Total Time</key><integer>134947</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:06Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3720777802</integer>
+			<key>Play Date UTC</key><date>2021-11-26T20:23:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-12T02:01:29Z</date>
+			<key>Release Date</key><date>2016-10-21T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pentatonix Christmas (Deluxe)</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Up On the Housetop</string>
+			<key>Persistent ID</key><string>E1ABFE5C263C40F9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4067</key>
+		<dict>
+			<key>Track ID</key><integer>4067</integer>
+			<key>Name</key><string>God Rest Ye Merry Gentlemen</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>The Best of Pentatonix Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5482780</integer>
+			<key>Total Time</key><integer>149994</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:23Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3720777952</integer>
+			<key>Play Date UTC</key><date>2021-11-26T20:25:52Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-12-24T23:17:09Z</date>
+			<key>Release Date</key><date>2016-10-21T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Pentatonix Christmas</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>God Rest Ye Merry Gentlemen</string>
+			<key>Persistent ID</key><string>A97C5B62AE7E7B32</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4075</key>
+		<dict>
+			<key>Track ID</key><integer>4075</integer>
+			<key>Name</key><string>Mary, Did You Know?</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Buddy Greene &#38; Mark Lowry</string>
+			<key>Album</key><string>The Best of Pentatonix Christmas</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7208890</integer>
+			<key>Total Time</key><integer>202614</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:23Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3690097209</integer>
+			<key>Play Date UTC</key><date>2020-12-06T18:00:09Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-27T19:13:29Z</date>
+			<key>Release Date</key><date>2014-10-21T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Pentatonix Christmas</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Mary, Did You Know?</string>
+			<key>Persistent ID</key><string>2CF481ADD65783C8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4079</key>
+		<dict>
+			<key>Track ID</key><integer>4079</integer>
+			<key>Name</key><string>When You Believe (with Maren Morris)</string>
+			<key>Artist</key><string>Pentatonix &#38; Maren Morris</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Stephen Lawrence Schwartz &#38; Kenneth Edmonds</string>
+			<key>Album</key><string>The Best of Pentatonix Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8097396</integer>
+			<key>Total Time</key><integer>232747</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:23Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3689544920</integer>
+			<key>Play Date UTC</key><date>2020-11-30T08:35:20Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-12-15T05:05:35Z</date>
+			<key>Release Date</key><date>2019-10-25T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Pentatonix Christmas</string>
+			<key>Sort Artist</key><string>Pentatonix &#38; Maren Morris</string>
+			<key>Sort Name</key><string>When You Believe (with Maren Morris)</string>
+			<key>Persistent ID</key><string>B579409C18BC58FB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4083</key>
+		<dict>
+			<key>Track ID</key><integer>4083</integer>
+			<key>Name</key><string>Grown-Up Christmas List (feat. Kelly Clarkson)</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>David Foster &#38; Linda Thompson</string>
+			<key>Album</key><string>The Best of Pentatonix Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9820219</integer>
+			<key>Total Time</key><integer>282711</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:23Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3720859206</integer>
+			<key>Play Date UTC</key><date>2021-11-27T19:00:06Z</date>
+			<key>Release Date</key><date>2019-10-25T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Pentatonix Christmas</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Grown-Up Christmas List (feat. Kelly Clarkson)</string>
+			<key>Persistent ID</key><string>F45B98478A1DB78A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4087</key>
+		<dict>
+			<key>Track ID</key><integer>4087</integer>
+			<key>Name</key><string>Carol of the Bells</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Mykola Leontovich &#38; Wilhousky</string>
+			<key>Album</key><string>The Best of Pentatonix Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6967354</integer>
+			<key>Total Time</key><integer>195964</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:23Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3689639214</integer>
+			<key>Play Date UTC</key><date>2020-12-01T10:46:54Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-11-27T18:19:07Z</date>
+			<key>Release Date</key><date>2012-11-12T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Pentatonix Christmas</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Carol of the Bells</string>
+			<key>Persistent ID</key><string>19C4F5EF9123A37B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4095</key>
+		<dict>
+			<key>Track ID</key><integer>4095</integer>
+			<key>Name</key><string>That's Christmas to Me</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Pentatonix</string>
+			<key>Album</key><string>The Best of Pentatonix Christmas</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6463666</integer>
+			<key>Total Time</key><integer>183555</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:23Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3690828751</integer>
+			<key>Play Date UTC</key><date>2020-12-15T05:12:31Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-24T21:18:24Z</date>
+			<key>Release Date</key><date>2014-10-21T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Pentatonix Christmas</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>That's Christmas to Me</string>
+			<key>Persistent ID</key><string>3124F28F7009489C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4099</key>
+		<dict>
+			<key>Track ID</key><integer>4099</integer>
+			<key>Name</key><string>Little Drummer Boy</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Harry Simeone, Henry V. Onorati &#38; Katherine Davis</string>
+			<key>Album</key><string>The Best of Pentatonix Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8810239</integer>
+			<key>Total Time</key><integer>253230</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:23Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3689641378</integer>
+			<key>Play Date UTC</key><date>2020-12-01T11:22:58Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-24T21:14:12Z</date>
+			<key>Release Date</key><date>2019-10-25T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Pentatonix Christmas</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Little Drummer Boy</string>
+			<key>Persistent ID</key><string>CCB2ABE1B4460639</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4103</key>
+		<dict>
+			<key>Track ID</key><integer>4103</integer>
+			<key>Name</key><string>Do You Hear What I Hear? (feat. Whitney Houston)</string>
+			<key>Artist</key><string>Pentatonix</string>
+			<key>Album Artist</key><string>Pentatonix</string>
+			<key>Composer</key><string>Gloria Shayne Baker &#38; Noël Regney</string>
+			<key>Album</key><string>The Best of Pentatonix Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7509604</integer>
+			<key>Total Time</key><integer>213876</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-11-21T18:32:23Z</date>
+			<key>Date Added</key><date>2019-11-21T18:32:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3689877743</integer>
+			<key>Play Date UTC</key><date>2020-12-04T05:02:23Z</date>
+			<key>Release Date</key><date>2003-11-18T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of Pentatonix Christmas</string>
+			<key>Sort Artist</key><string>Pentatonix</string>
+			<key>Sort Name</key><string>Do You Hear What I Hear? (feat. Whitney Houston)</string>
+			<key>Persistent ID</key><string>4E68DC3413E8BB95</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4107</key>
+		<dict>
+			<key>Track ID</key><integer>4107</integer>
+			<key>Name</key><string>It's Beginning To Look a Lot Like Christmas</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album Artist</key><string>Michael Bublé</string>
+			<key>Composer</key><string>Meredith Willson</string>
+			<key>Album</key><string>Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7438465</integer>
+			<key>Total Time</key><integer>207200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-11-21T18:33:06Z</date>
+			<key>Date Added</key><date>2019-11-21T18:33:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3689786211</integer>
+			<key>Play Date UTC</key><date>2020-12-03T03:36:51Z</date>
+			<key>Release Date</key><date>2011-10-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas</string>
+			<key>Sort Artist</key><string>Michael Bublé</string>
+			<key>Sort Name</key><string>It's Beginning To Look a Lot Like Christmas</string>
+			<key>Persistent ID</key><string>A84A656A56338850</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4110</key>
+		<dict>
+			<key>Track ID</key><integer>4110</integer>
+			<key>Name</key><string>All I Want For Christmas Is You</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album Artist</key><string>Michael Bublé</string>
+			<key>Composer</key><string>Mariah Carey &#38; Walter Afanasieff</string>
+			<key>Album</key><string>Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6175339</integer>
+			<key>Total Time</key><integer>174085</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-11-21T18:33:14Z</date>
+			<key>Date Added</key><date>2019-11-21T18:33:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3723198551</integer>
+			<key>Play Date UTC</key><date>2021-12-24T20:49:11Z</date>
+			<key>Release Date</key><date>2011-10-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas</string>
+			<key>Sort Artist</key><string>Michael Bublé</string>
+			<key>Sort Name</key><string>All I Want For Christmas Is You</string>
+			<key>Persistent ID</key><string>86EE33738E2C4015</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4113</key>
+		<dict>
+			<key>Track ID</key><integer>4113</integer>
+			<key>Name</key><string>Cold December Night</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album Artist</key><string>Michael Bublé</string>
+			<key>Composer</key><string>Alan Chang, Bob Rock &#38; Michael Bublé</string>
+			<key>Album</key><string>Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7247749</integer>
+			<key>Total Time</key><integer>200704</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-11-21T18:33:19Z</date>
+			<key>Date Added</key><date>2019-11-21T18:33:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3690097411</integer>
+			<key>Play Date UTC</key><date>2020-12-06T18:03:31Z</date>
+			<key>Release Date</key><date>2011-10-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas</string>
+			<key>Sort Artist</key><string>Michael Bublé</string>
+			<key>Sort Name</key><string>Cold December Night</string>
+			<key>Persistent ID</key><string>6D2ACF24FA31C79B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4116</key>
+		<dict>
+			<key>Track ID</key><integer>4116</integer>
+			<key>Name</key><string>Have Yourself a Merry Little Christmas</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album Artist</key><string>Michael Bublé</string>
+			<key>Composer</key><string>Hugh Martin &#38; Ralph Blane</string>
+			<key>Album</key><string>Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8177546</integer>
+			<key>Total Time</key><integer>232107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-11-21T18:33:24Z</date>
+			<key>Date Added</key><date>2019-11-21T18:33:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3720776686</integer>
+			<key>Play Date UTC</key><date>2021-11-26T20:04:46Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-12-15T05:05:41Z</date>
+			<key>Release Date</key><date>2011-10-14T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas</string>
+			<key>Sort Artist</key><string>Michael Bublé</string>
+			<key>Sort Name</key><string>Have Yourself a Merry Little Christmas</string>
+			<key>Persistent ID</key><string>85B09E6F1CDFD042</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4119</key>
+		<dict>
+			<key>Track ID</key><integer>4119</integer>
+			<key>Name</key><string>Do They Know It's Christmas?</string>
+			<key>Artist</key><string>Band Aid</string>
+			<key>Album Artist</key><string>Band Aid 20</string>
+			<key>Composer</key><string>Midge Ure &#38; Bob Geldof</string>
+			<key>Album</key><string>Do They Know It's Christmas? - Single</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8600063</integer>
+			<key>Total Time</key><integer>222533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2019-11-21T18:34:17Z</date>
+			<key>Date Added</key><date>2019-11-21T18:34:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3723207410</integer>
+			<key>Play Date UTC</key><date>2021-12-24T23:16:50Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-12-15T04:41:36Z</date>
+			<key>Release Date</key><date>1984-12-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Do They Know It's Christmas? - Single</string>
+			<key>Sort Artist</key><string>Band Aid</string>
+			<key>Sort Name</key><string>Do They Know It's Christmas?</string>
+			<key>Persistent ID</key><string>55CCFCEC6E7A3ABB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4122</key>
+		<dict>
+			<key>Track ID</key><integer>4122</integer>
+			<key>Name</key><string>All I Want For Christmas Is You</string>
+			<key>Artist</key><string>Mariah Carey</string>
+			<key>Album Artist</key><string>Mariah Carey</string>
+			<key>Composer</key><string>Mariah Carey &#38; Walter Afanasieff</string>
+			<key>Album</key><string>Merry Christmas</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9064496</integer>
+			<key>Total Time</key><integer>241562</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2019-11-21T18:34:38Z</date>
+			<key>Date Added</key><date>2019-11-21T18:34:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3721054175</integer>
+			<key>Play Date UTC</key><date>2021-11-30T01:09:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T19:12:51Z</date>
+			<key>Release Date</key><date>1994-10-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Merry Christmas</string>
+			<key>Sort Artist</key><string>Mariah Carey</string>
+			<key>Sort Name</key><string>All I Want For Christmas Is You</string>
+			<key>Persistent ID</key><string>1615D49D9C81D593</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4125</key>
+		<dict>
+			<key>Track ID</key><integer>4125</integer>
+			<key>Name</key><string>The Sweetest Gift (Dedicated to Annie Schmidt)</string>
+			<key>Artist</key><string>The Piano Guys &#38; Craig Aven</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Craig Aven</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10604064</integer>
+			<key>Total Time</key><integer>300063</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-11-21T18:37:35Z</date>
+			<key>Date Added</key><date>2019-11-21T18:37:35Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3723207031</integer>
+			<key>Play Date UTC</key><date>2021-12-24T23:10:31Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys &#38; Craig Aven</string>
+			<key>Sort Name</key><string>Sweetest Gift (Dedicated to Annie Schmidt)</string>
+			<key>Persistent ID</key><string>516BB8CB342AC30E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4128</key>
+		<dict>
+			<key>Track ID</key><integer>4128</integer>
+			<key>Name</key><string>Last Christmas</string>
+			<key>Artist</key><string>James TW</string>
+			<key>Album Artist</key><string>James TW</string>
+			<key>Composer</key><string>George Michael</string>
+			<key>Album</key><string>Last Christmas - Single</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7548944</integer>
+			<key>Total Time</key><integer>218267</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-11-21T18:42:19Z</date>
+			<key>Date Added</key><date>2019-11-21T18:42:19Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3690828567</integer>
+			<key>Play Date UTC</key><date>2020-12-15T05:09:27Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-12-06T17:43:55Z</date>
+			<key>Release Date</key><date>2018-12-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Last Christmas - Single</string>
+			<key>Sort Artist</key><string>James TW</string>
+			<key>Sort Name</key><string>Last Christmas</string>
+			<key>Persistent ID</key><string>8A8C1E122CF2BFFB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4131</key>
+		<dict>
+			<key>Track ID</key><integer>4131</integer>
+			<key>Name</key><string>All I Want (For Christmas)</string>
+			<key>Artist</key><string>Liam Payne</string>
+			<key>Album Artist</key><string>Liam Payne</string>
+			<key>Composer</key><string>Phil Cook, James Newman &#38; Sam Preston</string>
+			<key>Album</key><string>All I Want (For Christmas) - Single</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6574206</integer>
+			<key>Total Time</key><integer>181144</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-21T18:53:17Z</date>
+			<key>Date Added</key><date>2019-11-21T18:53:17Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3690826211</integer>
+			<key>Play Date UTC</key><date>2020-12-15T04:30:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-08T18:15:49Z</date>
+			<key>Release Date</key><date>2019-10-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>All I Want (For Christmas) - Single</string>
+			<key>Sort Artist</key><string>Liam Payne</string>
+			<key>Sort Name</key><string>All I Want (For Christmas)</string>
+			<key>Persistent ID</key><string>A3684D5C48DB6F7F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4137</key>
+		<dict>
+			<key>Track ID</key><integer>4137</integer>
+			<key>Name</key><string>Have Yourself a Merry Little Christmas</string>
+			<key>Artist</key><string>Dan + Shay</string>
+			<key>Album Artist</key><string>Dan + Shay</string>
+			<key>Composer</key><string>Hugh Martin &#38; Ralph Blane</string>
+			<key>Album</key><string>Have Yourself a Merry Little Christmas - Single</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5571440</integer>
+			<key>Total Time</key><integer>151867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-12-02T04:47:24Z</date>
+			<key>Date Added</key><date>2019-12-02T04:47:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3723207178</integer>
+			<key>Play Date UTC</key><date>2021-12-24T23:12:58Z</date>
+			<key>Release Date</key><date>2013-12-06T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Have Yourself a Merry Little Christmas - Single</string>
+			<key>Sort Artist</key><string>Dan + Shay</string>
+			<key>Sort Name</key><string>Have Yourself a Merry Little Christmas</string>
+			<key>Persistent ID</key><string>15130D1E0DF864AD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4140</key>
+		<dict>
+			<key>Track ID</key><integer>4140</integer>
+			<key>Name</key><string>Noel</string>
+			<key>Artist</key><string>GENTRI</string>
+			<key>Album Artist</key><string>GENTRI</string>
+			<key>Album</key><string>Noel</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10264615</integer>
+			<key>Total Time</key><integer>291640</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-02T04:51:06Z</date>
+			<key>Date Added</key><date>2019-12-02T04:51:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3720776439</integer>
+			<key>Play Date UTC</key><date>2021-11-26T20:00:39Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-11-18T15:30:17Z</date>
+			<key>Release Date</key><date>2019-11-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Noel</string>
+			<key>Sort Artist</key><string>GENTRI</string>
+			<key>Sort Name</key><string>Noel</string>
+			<key>Persistent ID</key><string>926FF04A8D16EE5B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4143</key>
+		<dict>
+			<key>Track ID</key><integer>4143</integer>
+			<key>Name</key><string>Joy to the World</string>
+			<key>Artist</key><string>GENTRI</string>
+			<key>Album Artist</key><string>GENTRI</string>
+			<key>Album</key><string>Noel</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8488043</integer>
+			<key>Total Time</key><integer>230773</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-12-02T04:51:06Z</date>
+			<key>Date Added</key><date>2019-12-02T04:51:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3689908906</integer>
+			<key>Play Date UTC</key><date>2020-12-04T13:41:46Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-27T19:12:43Z</date>
+			<key>Release Date</key><date>2018-11-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Noel</string>
+			<key>Sort Artist</key><string>GENTRI</string>
+			<key>Sort Name</key><string>Joy to the World</string>
+			<key>Persistent ID</key><string>4F852F43D22A5883</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4146</key>
+		<dict>
+			<key>Track ID</key><integer>4146</integer>
+			<key>Name</key><string>Do You Hear What I Hear?</string>
+			<key>Artist</key><string>GENTRI</string>
+			<key>Album Artist</key><string>GENTRI</string>
+			<key>Album</key><string>Noel</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7655128</integer>
+			<key>Total Time</key><integer>206333</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-02T04:51:06Z</date>
+			<key>Date Added</key><date>2019-12-02T04:51:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3689550438</integer>
+			<key>Play Date UTC</key><date>2020-11-30T10:07:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T18:41:24Z</date>
+			<key>Release Date</key><date>2019-11-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Noel</string>
+			<key>Sort Artist</key><string>GENTRI</string>
+			<key>Sort Name</key><string>Do You Hear What I Hear?</string>
+			<key>Persistent ID</key><string>D4338C4C9E607AAB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4149</key>
+		<dict>
+			<key>Track ID</key><integer>4149</integer>
+			<key>Name</key><string>It Came Upon a Midnight Clear</string>
+			<key>Artist</key><string>GENTRI</string>
+			<key>Album Artist</key><string>GENTRI</string>
+			<key>Album</key><string>Noel</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7995223</integer>
+			<key>Total Time</key><integer>227187</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-02T04:51:06Z</date>
+			<key>Date Added</key><date>2019-12-02T04:51:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3689892297</integer>
+			<key>Play Date UTC</key><date>2020-12-04T09:04:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-11T21:04:04Z</date>
+			<key>Release Date</key><date>2019-11-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Noel</string>
+			<key>Sort Artist</key><string>GENTRI</string>
+			<key>Sort Name</key><string>It Came Upon a Midnight Clear</string>
+			<key>Persistent ID</key><string>03C1F677590BA26B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4152</key>
+		<dict>
+			<key>Track ID</key><integer>4152</integer>
+			<key>Name</key><string>Still, Still, Still (feat. Stephen Nelson)</string>
+			<key>Artist</key><string>GENTRI</string>
+			<key>Album Artist</key><string>GENTRI</string>
+			<key>Album</key><string>Noel</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8579618</integer>
+			<key>Total Time</key><integer>248467</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-12-02T04:51:06Z</date>
+			<key>Date Added</key><date>2019-12-02T04:51:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3720857129</integer>
+			<key>Play Date UTC</key><date>2021-11-27T18:25:29Z</date>
+			<key>Release Date</key><date>2019-11-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Noel</string>
+			<key>Sort Artist</key><string>GENTRI</string>
+			<key>Sort Name</key><string>Still, Still, Still (feat. Stephen Nelson)</string>
+			<key>Persistent ID</key><string>9F761760C63B0C46</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4155</key>
+		<dict>
+			<key>Track ID</key><integer>4155</integer>
+			<key>Name</key><string>Hark! The Herald Angels Sing</string>
+			<key>Artist</key><string>GENTRI</string>
+			<key>Album Artist</key><string>GENTRI</string>
+			<key>Album</key><string>Noel</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9327401</integer>
+			<key>Total Time</key><integer>250133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-12-02T04:51:06Z</date>
+			<key>Date Added</key><date>2019-12-02T04:51:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3720856093</integer>
+			<key>Play Date UTC</key><date>2021-11-27T18:08:13Z</date>
+			<key>Release Date</key><date>2018-11-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Noel</string>
+			<key>Sort Artist</key><string>GENTRI</string>
+			<key>Sort Name</key><string>Hark! The Herald Angels Sing</string>
+			<key>Persistent ID</key><string>0C5C7BB2176DD2A7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4164</key>
+		<dict>
+			<key>Track ID</key><integer>4164</integer>
+			<key>Name</key><string>Underneath the Tree</string>
+			<key>Artist</key><string>Kelly Clarkson</string>
+			<key>Album Artist</key><string>Kelly Clarkson</string>
+			<key>Composer</key><string>Kelly Clarkson &#38; Greg Kurstin</string>
+			<key>Album</key><string>Wrapped In Red</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8184858</integer>
+			<key>Total Time</key><integer>229638</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2019-12-10T01:46:24Z</date>
+			<key>Date Added</key><date>2019-12-10T01:46:24Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3723145073</integer>
+			<key>Play Date UTC</key><date>2021-12-24T05:57:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-11-17T07:00:38Z</date>
+			<key>Release Date</key><date>2013-10-25T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Wrapped In Red</string>
+			<key>Sort Artist</key><string>Kelly Clarkson</string>
+			<key>Sort Name</key><string>Underneath the Tree</string>
+			<key>Persistent ID</key><string>5638B4DA261E5440</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4167</key>
+		<dict>
+			<key>Track ID</key><integer>4167</integer>
+			<key>Name</key><string>Jingle Bells</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5745277</integer>
+			<key>Total Time</key><integer>160806</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:47:55Z</date>
+			<key>Date Added</key><date>2019-12-10T01:47:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3690823878</integer>
+			<key>Play Date UTC</key><date>2020-12-15T03:51:18Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>Jingle Bells</string>
+			<key>Persistent ID</key><string>31ED629CE0D279EC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4170</key>
+		<dict>
+			<key>Track ID</key><integer>4170</integer>
+			<key>Name</key><string>God Rest Ye Merry Gentlemen</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7220867</integer>
+			<key>Total Time</key><integer>203263</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:47:59Z</date>
+			<key>Date Added</key><date>2019-12-10T01:47:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3723206495</integer>
+			<key>Play Date UTC</key><date>2021-12-24T23:01:35Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>God Rest Ye Merry Gentlemen</string>
+			<key>Persistent ID</key><string>915C0DF75AAA92E5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4173</key>
+		<dict>
+			<key>Track ID</key><integer>4173</integer>
+			<key>Name</key><string>Oh Come All Ye Faithful</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6107852</integer>
+			<key>Total Time</key><integer>169875</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:01Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:01Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3689910131</integer>
+			<key>Play Date UTC</key><date>2020-12-04T14:02:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-27T18:49:05Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>Oh Come All Ye Faithful</string>
+			<key>Persistent ID</key><string>C8BEAF8793DABD61</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4176</key>
+		<dict>
+			<key>Track ID</key><integer>4176</integer>
+			<key>Name</key><string>Joy To the World</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4769917</integer>
+			<key>Total Time</key><integer>130446</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:06Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3720795406</integer>
+			<key>Play Date UTC</key><date>2021-11-27T01:16:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-15T04:41:40Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>Joy To the World</string>
+			<key>Persistent ID</key><string>87609DC77717C463</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4179</key>
+		<dict>
+			<key>Track ID</key><integer>4179</integer>
+			<key>Name</key><string>Here We Come a Caroling</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5049427</integer>
+			<key>Total Time</key><integer>137728</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:06Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3723144638</integer>
+			<key>Play Date UTC</key><date>2021-12-24T05:50:38Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>Here We Come a Caroling</string>
+			<key>Persistent ID</key><string>2F431B04D4E1955B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4182</key>
+		<dict>
+			<key>Track ID</key><integer>4182</integer>
+			<key>Name</key><string>Silent Night</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6806059</integer>
+			<key>Total Time</key><integer>190058</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:06Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3689891668</integer>
+			<key>Play Date UTC</key><date>2020-12-04T08:54:28Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T19:12:57Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>Silent Night</string>
+			<key>Persistent ID</key><string>E3090CC9C472AD52</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4185</key>
+		<dict>
+			<key>Track ID</key><integer>4185</integer>
+			<key>Name</key><string>The First Noel</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6224344</integer>
+			<key>Total Time</key><integer>173682</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:06Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3689904154</integer>
+			<key>Play Date UTC</key><date>2020-12-04T12:22:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-04T04:06:45Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>First Noel</string>
+			<key>Persistent ID</key><string>6A7FF1B0C144B339</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4188</key>
+		<dict>
+			<key>Track ID</key><integer>4188</integer>
+			<key>Name</key><string>O Christmas Tree</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5783368</integer>
+			<key>Total Time</key><integer>159662</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:06Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3690828927</integer>
+			<key>Play Date UTC</key><date>2020-12-15T05:15:27Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>O Christmas Tree</string>
+			<key>Persistent ID</key><string>92A4B04DAFC1EB43</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4191</key>
+		<dict>
+			<key>Track ID</key><integer>4191</integer>
+			<key>Name</key><string>Away In a Manger</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5450150</integer>
+			<key>Total Time</key><integer>149198</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:06Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3720690595</integer>
+			<key>Play Date UTC</key><date>2021-11-25T20:09:55Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>Away In a Manger</string>
+			<key>Persistent ID</key><string>5FC205F57195631A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4194</key>
+		<dict>
+			<key>Track ID</key><integer>4194</integer>
+			<key>Name</key><string>We Three Kings</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5967476</integer>
+			<key>Total Time</key><integer>166606</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:06Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3690096694</integer>
+			<key>Play Date UTC</key><date>2020-12-06T17:51:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T19:12:37Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>We Three Kings</string>
+			<key>Persistent ID</key><string>0D2942651337F328</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4197</key>
+		<dict>
+			<key>Track ID</key><integer>4197</integer>
+			<key>Name</key><string>Auld Lang Syne</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6865279</integer>
+			<key>Total Time</key><integer>195413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:06Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3689907810</integer>
+			<key>Play Date UTC</key><date>2020-12-04T13:23:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-15T04:46:40Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>Auld Lang Syne</string>
+			<key>Persistent ID</key><string>6E8EEAA9080B49D3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4200</key>
+		<dict>
+			<key>Track ID</key><integer>4200</integer>
+			<key>Name</key><string>Hark the Herald Angels Sing</string>
+			<key>Artist</key><string>Jim Brickman</string>
+			<key>Album Artist</key><string>Jim Brickman</string>
+			<key>Album</key><string>Christmas Piano</string>
+			<key>Genre</key><string>Christmas</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6364328</integer>
+			<key>Total Time</key><integer>177270</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2019-12-10T01:48:06Z</date>
+			<key>Date Added</key><date>2019-12-10T01:48:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3689908434</integer>
+			<key>Play Date UTC</key><date>2020-12-04T13:33:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T18:40:19Z</date>
+			<key>Release Date</key><date>2003-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Piano</string>
+			<key>Sort Artist</key><string>Jim Brickman</string>
+			<key>Sort Name</key><string>Hark the Herald Angels Sing</string>
+			<key>Persistent ID</key><string>9F42D19C40F73690</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4206</key>
+		<dict>
+			<key>Track ID</key><integer>4206</integer>
+			<key>Name</key><string>All I Want For Christmas Is You</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Walter Afanasieff &#38; Mariah Carey</string>
+			<key>Album</key><string>Christmas Country</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7581486</integer>
+			<key>Total Time</key><integer>216067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3720855654</integer>
+			<key>Play Date UTC</key><date>2021-11-27T18:00:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-04T04:44:36Z</date>
+			<key>Release Date</key><date>2012-10-22T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Country</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>All I Want For Christmas Is You</string>
+			<key>Persistent ID</key><string>3CDF4CA54EDE2669</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4210</key>
+		<dict>
+			<key>Track ID</key><integer>4210</integer>
+			<key>Name</key><string>Silver Bells</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Lady A</string>
+			<key>Composer</key><string>Raymond B. Evans &#38; Jerry Livingston</string>
+			<key>Album</key><string>On This Winter's Night</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>10453325</integer>
+			<key>Total Time</key><integer>299573</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3720857429</integer>
+			<key>Play Date UTC</key><date>2021-11-27T18:30:29Z</date>
+			<key>Release Date</key><date>2012-10-22T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On This Winter's Night</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>Silver Bells</string>
+			<key>Persistent ID</key><string>66B77D0A15362970</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4213</key>
+		<dict>
+			<key>Track ID</key><integer>4213</integer>
+			<key>Name</key><string>A Holly Jolly Christmas</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Johnny Marks</string>
+			<key>Album</key><string>Christmas Country</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4736181</integer>
+			<key>Total Time</key><integer>123173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>25</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3689878145</integer>
+			<key>Play Date UTC</key><date>2020-12-04T05:09:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T19:13:02Z</date>
+			<key>Release Date</key><date>2012-10-22T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Country</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>Holly Jolly Christmas</string>
+			<key>Persistent ID</key><string>EEE8221E259F0F55</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4217</key>
+		<dict>
+			<key>Track ID</key><integer>4217</integer>
+			<key>Name</key><string>Silent Night (Lord Of My Life)</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Lady A</string>
+			<key>Composer</key><string>Charles Kelley, Dave Haywood &#38; Hillary Scott</string>
+			<key>Album</key><string>On This Winter's Night</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6927720</integer>
+			<key>Total Time</key><integer>195133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3689904349</integer>
+			<key>Play Date UTC</key><date>2020-12-04T12:25:49Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-12-15T04:46:48Z</date>
+			<key>Release Date</key><date>2012-10-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On This Winter's Night</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>Silent Night (Lord Of My Life)</string>
+			<key>Persistent ID</key><string>0A711426AF8CD1EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4220</key>
+		<dict>
+			<key>Track ID</key><integer>4220</integer>
+			<key>Name</key><string>Christmas (Baby Please Come Home)</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Lady A</string>
+			<key>Composer</key><string>Phil Spector, Jeff Barry &#38; Ellie Greenwich</string>
+			<key>Album</key><string>On This Winter's Night</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6910586</integer>
+			<key>Total Time</key><integer>189133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3689786004</integer>
+			<key>Play Date UTC</key><date>2020-12-03T03:33:24Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-12-24T21:17:53Z</date>
+			<key>Release Date</key><date>2012-10-22T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On This Winter's Night</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>Christmas (Baby Please Come Home)</string>
+			<key>Persistent ID</key><string>5642588DBD84A7F8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4223</key>
+		<dict>
+			<key>Track ID</key><integer>4223</integer>
+			<key>Name</key><string>I'll Be Home For Christmas</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Lady A</string>
+			<key>Composer</key><string>Kim Gannon, Walter Kent &#38; Buck Ram</string>
+			<key>Album</key><string>On This Winter's Night</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7140499</integer>
+			<key>Total Time</key><integer>200933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3689628549</integer>
+			<key>Play Date UTC</key><date>2020-12-01T07:49:09Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T19:04:03Z</date>
+			<key>Release Date</key><date>2012-10-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On This Winter's Night</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>I'll Be Home For Christmas</string>
+			<key>Persistent ID</key><string>31143417A6FDFB3F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4226</key>
+		<dict>
+			<key>Track ID</key><integer>4226</integer>
+			<key>Name</key><string>This Christmas</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Lady A</string>
+			<key>Composer</key><string>Donny Hathaway &#38; Nadine McKinnor</string>
+			<key>Album</key><string>On This Winter's Night</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7164878</integer>
+			<key>Total Time</key><integer>199827</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3689785501</integer>
+			<key>Play Date UTC</key><date>2020-12-03T03:25:01Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-24T20:49:17Z</date>
+			<key>Release Date</key><date>2012-10-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On This Winter's Night</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>This Christmas</string>
+			<key>Persistent ID</key><string>A6AB2ED0FFAD6C90</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4229</key>
+		<dict>
+			<key>Track ID</key><integer>4229</integer>
+			<key>Name</key><string>The First Noel</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Lady A</string>
+			<key>Composer</key><string>Charles Kelley, Dave Haywood &#38; Hillary Scott</string>
+			<key>Album</key><string>On This Winter's Night</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7190841</integer>
+			<key>Total Time</key><integer>203533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3689902762</integer>
+			<key>Play Date UTC</key><date>2020-12-04T11:59:22Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-27T18:21:10Z</date>
+			<key>Release Date</key><date>2012-10-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On This Winter's Night</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>First Noel</string>
+			<key>Persistent ID</key><string>0753BE6EA77D40F6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4232</key>
+		<dict>
+			<key>Track ID</key><integer>4232</integer>
+			<key>Name</key><string>Have Yourself A Merry Little Christmas</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Lady A</string>
+			<key>Composer</key><string>Ralph Blane</string>
+			<key>Album</key><string>On This Winter's Night</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8716437</integer>
+			<key>Total Time</key><integer>250133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3689640609</integer>
+			<key>Play Date UTC</key><date>2020-12-01T11:10:09Z</date>
+			<key>Release Date</key><date>2012-10-22T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On This Winter's Night</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>Have Yourself A Merry Little Christmas</string>
+			<key>Persistent ID</key><string>D0EE8A4994C8A312</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4235</key>
+		<dict>
+			<key>Track ID</key><integer>4235</integer>
+			<key>Name</key><string>Let It Snow, Let It Snow, Let It Snow</string>
+			<key>Artist</key><string>Lady A</string>
+			<key>Album Artist</key><string>Lady A</string>
+			<key>Composer</key><string>Jule Styne &#38; Sammy Cahn</string>
+			<key>Album</key><string>On This Winter's Night</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5546081</integer>
+			<key>Total Time</key><integer>152373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2019-12-25T18:15:34Z</date>
+			<key>Date Added</key><date>2019-12-25T18:15:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3690096846</integer>
+			<key>Play Date UTC</key><date>2020-12-06T17:54:06Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-27T18:35:03Z</date>
+			<key>Release Date</key><date>2012-10-22T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>On This Winter's Night</string>
+			<key>Sort Artist</key><string>Lady A</string>
+			<key>Sort Name</key><string>Let It Snow, Let It Snow, Let It Snow</string>
+			<key>Persistent ID</key><string>10F9A972F81163C2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4545</key>
+		<dict>
+			<key>Track ID</key><integer>4545</integer>
+			<key>Name</key><string>Mary, Did You Know?</string>
+			<key>Artist</key><string>Carrie Underwood</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>Buddy Greene &#38; Mark Lowry</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7285596</integer>
+			<key>Total Time</key><integer>206285</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3720795612</integer>
+			<key>Play Date UTC</key><date>2021-11-27T01:20:12Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood</string>
+			<key>Sort Name</key><string>Mary, Did You Know?</string>
+			<key>Persistent ID</key><string>6539CFCC44B3DA62</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4548</key>
+		<dict>
+			<key>Track ID</key><integer>4548</integer>
+			<key>Name</key><string>Hallelujah</string>
+			<key>Artist</key><string>Carrie Underwood &#38; John Legend</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>John Stephens &#38; Toby Gad</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9608569</integer>
+			<key>Total Time</key><integer>275099</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3690827193</integer>
+			<key>Play Date UTC</key><date>2020-12-15T04:46:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T19:13:22Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood &#38; John Legend</string>
+			<key>Sort Name</key><string>Hallelujah</string>
+			<key>Persistent ID</key><string>1ED0F8AB3DE6F793</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4551</key>
+		<dict>
+			<key>Track ID</key><integer>4551</integer>
+			<key>Name</key><string>Sweet Baby Jesus</string>
+			<key>Artist</key><string>Carrie Underwood</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>Carrie Underwood, David Garcia &#38; Brett James</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9444197</integer>
+			<key>Total Time</key><integer>269553</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3690828166</integer>
+			<key>Play Date UTC</key><date>2020-12-15T05:02:46Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-26T20:40:41Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood</string>
+			<key>Sort Name</key><string>Sweet Baby Jesus</string>
+			<key>Persistent ID</key><string>E41052CCDDAFB0BA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4554</key>
+		<dict>
+			<key>Track ID</key><integer>4554</integer>
+			<key>Name</key><string>O Holy Night</string>
+			<key>Artist</key><string>Carrie Underwood</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9806728</integer>
+			<key>Total Time</key><integer>281219</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3689903440</integer>
+			<key>Play Date UTC</key><date>2020-12-04T12:10:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T18:21:20Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood</string>
+			<key>Sort Name</key><string>O Holy Night</string>
+			<key>Persistent ID</key><string>2CE88CA55A2B17C6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4557</key>
+		<dict>
+			<key>Track ID</key><integer>4557</integer>
+			<key>Name</key><string>O Come All Ye Faithful</string>
+			<key>Artist</key><string>Carrie Underwood</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6919324</integer>
+			<key>Total Time</key><integer>194455</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3689910326</integer>
+			<key>Play Date UTC</key><date>2020-12-04T14:05:26Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood</string>
+			<key>Sort Name</key><string>O Come All Ye Faithful</string>
+			<key>Persistent ID</key><string>2885209E72EB920F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4560</key>
+		<dict>
+			<key>Track ID</key><integer>4560</integer>
+			<key>Name</key><string>Little Drummer Boy (feat. Isaiah Fisher)</string>
+			<key>Artist</key><string>Carrie Underwood</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>Harry Simeone, Henry V. Onorati &#38; Katherine Davis</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6259201</integer>
+			<key>Total Time</key><integer>176104</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3723144501</integer>
+			<key>Play Date UTC</key><date>2021-12-24T05:48:21Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood</string>
+			<key>Sort Name</key><string>Little Drummer Boy (feat. Isaiah Fisher)</string>
+			<key>Persistent ID</key><string>E9754F2B540AB0D2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4563</key>
+		<dict>
+			<key>Track ID</key><integer>4563</integer>
+			<key>Name</key><string>Silent Night</string>
+			<key>Artist</key><string>Carrie Underwood</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7284068</integer>
+			<key>Total Time</key><integer>211115</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3720856729</integer>
+			<key>Play Date UTC</key><date>2021-11-27T18:18:49Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-12-04T04:40:57Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood</string>
+			<key>Sort Name</key><string>Silent Night</string>
+			<key>Persistent ID</key><string>E11DF9E709A47261</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4566</key>
+		<dict>
+			<key>Track ID</key><integer>4566</integer>
+			<key>Name</key><string>Joyful, Joyful, We Adore Thee</string>
+			<key>Artist</key><string>Carrie Underwood</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8136121</integer>
+			<key>Total Time</key><integer>235835</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3689905678</integer>
+			<key>Play Date UTC</key><date>2020-12-04T12:47:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-09-26T19:57:54Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood</string>
+			<key>Sort Name</key><string>Joyful, Joyful, We Adore Thee</string>
+			<key>Persistent ID</key><string>8E92909E6AC9557F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4569</key>
+		<dict>
+			<key>Track ID</key><integer>4569</integer>
+			<key>Name</key><string>Away in a Manger</string>
+			<key>Artist</key><string>Carrie Underwood</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5821219</integer>
+			<key>Total Time</key><integer>161087</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3689893116</integer>
+			<key>Play Date UTC</key><date>2020-12-04T09:18:36Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood</string>
+			<key>Sort Name</key><string>Away in a Manger</string>
+			<key>Persistent ID</key><string>AA7CE26D94B91274</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4572</key>
+		<dict>
+			<key>Track ID</key><integer>4572</integer>
+			<key>Name</key><string>Have Yourself a Merry Little Christmas</string>
+			<key>Artist</key><string>Carrie Underwood</string>
+			<key>Album Artist</key><string>Carrie Underwood</string>
+			<key>Composer</key><string>Ralph Blane &#38; Hugh Martin</string>
+			<key>Album</key><string>My Gift</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8122126</integer>
+			<key>Total Time</key><integer>229894</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-09-25T16:27:38Z</date>
+			<key>Date Added</key><date>2020-09-25T16:27:38Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3723196332</integer>
+			<key>Play Date UTC</key><date>2021-12-24T20:12:12Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-12-06T18:34:55Z</date>
+			<key>Release Date</key><date>2020-09-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Gift</string>
+			<key>Sort Artist</key><string>Carrie Underwood</string>
+			<key>Sort Name</key><string>Have Yourself a Merry Little Christmas</string>
+			<key>Persistent ID</key><string>AAA8F948C80E9F3E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4650</key>
+		<dict>
+			<key>Track ID</key><integer>4650</integer>
+			<key>Name</key><string>Angels from the Realms of Glory</string>
+			<key>Artist</key><string>The Piano Guys, David Archuleta &#38; Peter Hollens</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8893979</integer>
+			<key>Total Time</key><integer>245813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3723145319</integer>
+			<key>Play Date UTC</key><date>2021-12-24T06:01:59Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys, David Archuleta &#38; Peter Hollens</string>
+			<key>Sort Name</key><string>Angels from the Realms of Glory</string>
+			<key>Persistent ID</key><string>FA34AB92E167F6A0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4653</key>
+		<dict>
+			<key>Track ID</key><integer>4653</integer>
+			<key>Name</key><string>Gloria / Hark! The Herald Angels Sing</string>
+			<key>Artist</key><string>The Piano Guys</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Al Van der beek, Charles Wesley &#38; Steven Sharp Nelson</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8169515</integer>
+			<key>Total Time</key><integer>233875</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3720795275</integer>
+			<key>Play Date UTC</key><date>2021-11-27T01:14:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T19:12:47Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys</string>
+			<key>Sort Name</key><string>Gloria / Hark! The Herald Angels Sing</string>
+			<key>Persistent ID</key><string>6D551331652C6C58</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4656</key>
+		<dict>
+			<key>Track ID</key><integer>4656</integer>
+			<key>Name</key><string>Little Drummer Boy / Do You Hear What I Hear</string>
+			<key>Artist</key><string>The Piano Guys</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Katherine Kennicott Davis, Noël Regney, Gloria Shayne Baker, Henry Onorati &#38; Harry Simeone</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8731267</integer>
+			<key>Total Time</key><integer>234063</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3689909766</integer>
+			<key>Play Date UTC</key><date>2020-12-04T13:56:06Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T18:11:52Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys</string>
+			<key>Sort Name</key><string>Little Drummer Boy / Do You Hear What I Hear</string>
+			<key>Persistent ID</key><string>ECA5A4A83059AD00</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4659</key>
+		<dict>
+			<key>Track ID</key><integer>4659</integer>
+			<key>Name</key><string>O Little One Sweet (BWV 493)</string>
+			<key>Artist</key><string>The Piano Guys &#38; The King's Singers</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Johann Sebastian Bach</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7672760</integer>
+			<key>Total Time</key><integer>223063</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3689892520</integer>
+			<key>Play Date UTC</key><date>2020-12-04T09:08:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys &#38; The King's Singers</string>
+			<key>Sort Name</key><string>O Little One Sweet (BWV 493)</string>
+			<key>Persistent ID</key><string>D2E93BFC5A61490F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4662</key>
+		<dict>
+			<key>Track ID</key><integer>4662</integer>
+			<key>Name</key><string>Silent Night, Holy Night</string>
+			<key>Artist</key><string>The Piano Guys &#38; Plácido Domingo</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Franz Xaver Gruber</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7392432</integer>
+			<key>Total Time</key><integer>209125</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3689893325</integer>
+			<key>Play Date UTC</key><date>2020-12-04T09:22:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-26T20:00:49Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys &#38; Plácido Domingo</string>
+			<key>Sort Name</key><string>Silent Night, Holy Night</string>
+			<key>Persistent ID</key><string>D21EC0BEBDDCF32B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4665</key>
+		<dict>
+			<key>Track ID</key><integer>4665</integer>
+			<key>Name</key><string>Mary Did You Know / Corelli Christmas Concerto</string>
+			<key>Artist</key><string>The Piano Guys</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Arcangelo Corelli &#38; Buddy Greene</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8386010</integer>
+			<key>Total Time</key><integer>241250</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3720776927</integer>
+			<key>Play Date UTC</key><date>2021-11-26T20:08:47Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys</string>
+			<key>Sort Name</key><string>Mary Did You Know / Corelli Christmas Concerto</string>
+			<key>Persistent ID</key><string>2678758E7871C834</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4668</key>
+		<dict>
+			<key>Track ID</key><integer>4668</integer>
+			<key>Name</key><string>I Saw Three Ships</string>
+			<key>Artist</key><string>The Piano Guys</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5696344</integer>
+			<key>Total Time</key><integer>162063</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3689631241</integer>
+			<key>Play Date UTC</key><date>2020-12-01T08:34:01Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys</string>
+			<key>Sort Name</key><string>I Saw Three Ships</string>
+			<key>Persistent ID</key><string>C683D7E436631701</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4671</key>
+		<dict>
+			<key>Track ID</key><integer>4671</integer>
+			<key>Name</key><string>Ode to Joy to the World</string>
+			<key>Artist</key><string>The Piano Guys</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>George Frideric Handel, Ludwig van Beethoven &#38; Isaac Watts</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8716333</integer>
+			<key>Total Time</key><integer>246125</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3689906170</integer>
+			<key>Play Date UTC</key><date>2020-12-04T12:56:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-11-16T04:33:15Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys</string>
+			<key>Sort Name</key><string>Ode to Joy to the World</string>
+			<key>Persistent ID</key><string>E18B842F6FCD671F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4674</key>
+		<dict>
+			<key>Track ID</key><integer>4674</integer>
+			<key>Name</key><string>The Manger</string>
+			<key>Artist</key><string>The Piano Guys</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Steven Sharp Nelson, Jon Schmidt &#38; Al Van der beek</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8334486</integer>
+			<key>Total Time</key><integer>240438</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3689906644</integer>
+			<key>Play Date UTC</key><date>2020-12-04T13:04:04Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys</string>
+			<key>Sort Name</key><string>Manger</string>
+			<key>Persistent ID</key><string>44A0249AC49B1D52</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4677</key>
+		<dict>
+			<key>Track ID</key><integer>4677</integer>
+			<key>Name</key><string>What Child Is This</string>
+			<key>Artist</key><string>The Piano Guys</string>
+			<key>Album Artist</key><string>The Piano Guys</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>Christmas Together</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6238577</integer>
+			<key>Total Time</key><integer>179125</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-10-21T02:43:57Z</date>
+			<key>Date Added</key><date>2020-10-21T02:43:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3689879010</integer>
+			<key>Play Date UTC</key><date>2020-12-04T05:23:30Z</date>
+			<key>Release Date</key><date>2017-10-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Together</string>
+			<key>Sort Album Artist</key><string>Piano Guys</string>
+			<key>Sort Artist</key><string>Piano Guys</string>
+			<key>Sort Name</key><string>What Child Is This</string>
+			<key>Persistent ID</key><string>A5020E8010539797</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4686</key>
+		<dict>
+			<key>Track ID</key><integer>4686</integer>
+			<key>Name</key><string>Take Me Home for Christmas</string>
+			<key>Artist</key><string>Dan + Shay</string>
+			<key>Album Artist</key><string>Dan + Shay</string>
+			<key>Composer</key><string>Andy Albert, Dan Smyers, Jordan Reynolds, Jordan Schmidt, Mitchell Tenpenny &#38; Shay Mooney</string>
+			<key>Album</key><string>Take Me Home For Christmas - Single</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7235777</integer>
+			<key>Total Time</key><integer>203880</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-11-12T23:17:05Z</date>
+			<key>Date Added</key><date>2020-11-12T23:17:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3723199283</integer>
+			<key>Play Date UTC</key><date>2021-12-24T21:01:23Z</date>
+			<key>Release Date</key><date>2020-11-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Take Me Home For Christmas - Single</string>
+			<key>Sort Artist</key><string>Dan + Shay</string>
+			<key>Sort Name</key><string>Take Me Home for Christmas</string>
+			<key>Persistent ID</key><string>4C63FD63E88F067C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4689</key>
+		<dict>
+			<key>Track ID</key><integer>4689</integer>
+			<key>Name</key><string>Hark! The Herald Angels Sing</string>
+			<key>Artist</key><string>BYU Vocal Point</string>
+			<key>Album Artist</key><string>BYU Vocal Point</string>
+			<key>Composer</key><string>Felix Mendelssohn</string>
+			<key>Album</key><string>Newborn King - EP</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7667171</integer>
+			<key>Total Time</key><integer>206325</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-11-16T02:36:18Z</date>
+			<key>Date Added</key><date>2020-11-16T02:36:33Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3689910900</integer>
+			<key>Play Date UTC</key><date>2020-12-04T14:15:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-27T18:40:14Z</date>
+			<key>Release Date</key><date>2020-11-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Newborn King - EP</string>
+			<key>Sort Artist</key><string>BYU Vocal Point</string>
+			<key>Sort Name</key><string>Hark! The Herald Angels Sing</string>
+			<key>Persistent ID</key><string>7EECB355B624ABAB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4692</key>
+		<dict>
+			<key>Track ID</key><integer>4692</integer>
+			<key>Name</key><string>O Holy Night</string>
+			<key>Artist</key><string>BYU Vocal Point</string>
+			<key>Album Artist</key><string>BYU Vocal Point</string>
+			<key>Composer</key><string>Adolphe Charles Adam</string>
+			<key>Album</key><string>Newborn King - EP</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>12055056</integer>
+			<key>Total Time</key><integer>333292</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-11-16T02:44:28Z</date>
+			<key>Date Added</key><date>2020-11-16T02:44:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3720777464</integer>
+			<key>Play Date UTC</key><date>2021-11-26T20:17:44Z</date>
+			<key>Release Date</key><date>2020-11-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Newborn King - EP</string>
+			<key>Sort Artist</key><string>BYU Vocal Point</string>
+			<key>Sort Name</key><string>O Holy Night</string>
+			<key>Persistent ID</key><string>F101957A1D8AB578</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4695</key>
+		<dict>
+			<key>Track ID</key><integer>4695</integer>
+			<key>Name</key><string>All Is Well</string>
+			<key>Artist</key><string>BYU Vocal Point</string>
+			<key>Album Artist</key><string>BYU Vocal Point</string>
+			<key>Composer</key><string>Michael W. Smith &#38; Wayne Kirkpatrick</string>
+			<key>Album</key><string>Newborn King - EP</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8797777</integer>
+			<key>Total Time</key><integer>240225</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-11-16T02:51:11Z</date>
+			<key>Date Added</key><date>2020-11-16T02:51:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3720859938</integer>
+			<key>Play Date UTC</key><date>2021-11-27T19:12:18Z</date>
+			<key>Release Date</key><date>2020-11-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Newborn King - EP</string>
+			<key>Sort Artist</key><string>BYU Vocal Point</string>
+			<key>Sort Name</key><string>All Is Well</string>
+			<key>Persistent ID</key><string>2E1DB7BE07AA6E89</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4701</key>
+		<dict>
+			<key>Track ID</key><integer>4701</integer>
+			<key>Name</key><string>Christmas Isn't Christmas</string>
+			<key>Artist</key><string>Dan + Shay</string>
+			<key>Album Artist</key><string>Dan + Shay</string>
+			<key>Composer</key><string>Andy Albert, Dan Smyers, Jordan Reynolds &#38; Shay Mooney</string>
+			<key>Album</key><string>Christmas Isn't Christmas - Single</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6964001</integer>
+			<key>Total Time</key><integer>195067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-11-20T06:16:40Z</date>
+			<key>Date Added</key><date>2020-11-20T06:16:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3723200266</integer>
+			<key>Play Date UTC</key><date>2021-12-24T21:17:46Z</date>
+			<key>Release Date</key><date>2020-11-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Christmas Isn't Christmas - Single</string>
+			<key>Sort Artist</key><string>Dan + Shay</string>
+			<key>Sort Name</key><string>Christmas Isn't Christmas</string>
+			<key>Persistent ID</key><string>441A9E58E6554C3F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4746</key>
+		<dict>
+			<key>Track ID</key><integer>4746</integer>
+			<key>Name</key><string>Believe</string>
+			<key>Artist</key><string>Josh Groban</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Alan Silvestri &#38; Glen Ballard</string>
+			<key>Album</key><string>The Polar Express (Soundtrack from the Motion Picture)</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9035358</integer>
+			<key>Total Time</key><integer>258400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2020-12-13T20:11:53Z</date>
+			<key>Date Added</key><date>2020-12-13T20:11:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3723196590</integer>
+			<key>Play Date UTC</key><date>2021-12-24T20:16:30Z</date>
+			<key>Release Date</key><date>2004-11-02T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Polar Express (Soundtrack from the Motion Picture)</string>
+			<key>Sort Artist</key><string>Josh Groban</string>
+			<key>Sort Name</key><string>Believe</string>
+			<key>Persistent ID</key><string>81ECBD39FB6964FF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5025</key>
+		<dict>
+			<key>Track ID</key><integer>5025</integer>
+			<key>Name</key><string>Let it Snow! Let it Snow! Let it Snow!</string>
+			<key>Artist</key><string>Mitchell Tenpenny</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Sammy Cahn &#38; Jule Styne</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6230223</integer>
+			<key>Total Time</key><integer>171580</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-29T04:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-24T21:18:15Z</date>
+			<key>Release Date</key><date>2019-10-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny</string>
+			<key>Sort Name</key><string>Let it Snow! Let it Snow! Let it Snow!</string>
+			<key>Persistent ID</key><string>ABD2AEBFFC053850</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5028</key>
+		<dict>
+			<key>Track ID</key><integer>5028</integer>
+			<key>Name</key><string>Naughty List</string>
+			<key>Artist</key><string>Mitchell Tenpenny</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Mitchell Tenpenny, Andrew Albert &#38; Jordan Schmidt</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8106597</integer>
+			<key>Total Time</key><integer>227817</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-09T13:40:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3720860271</integer>
+			<key>Play Date UTC</key><date>2021-11-27T19:17:51Z</date>
+			<key>Release Date</key><date>2019-10-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny</string>
+			<key>Sort Name</key><string>Naughty List</string>
+			<key>Persistent ID</key><string>91E4F7BA4E2785A1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5031</key>
+		<dict>
+			<key>Track ID</key><integer>5031</integer>
+			<key>Name</key><string>Jingle Bell Rock</string>
+			<key>Artist</key><string>Mitchell Tenpenny</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Joe Beal &#38; Jim Boothe</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5716495</integer>
+			<key>Total Time</key><integer>153972</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-29T04:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-10-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny</string>
+			<key>Sort Name</key><string>Jingle Bell Rock</string>
+			<key>Persistent ID</key><string>0F5EEB11DB8C43A0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5034</key>
+		<dict>
+			<key>Track ID</key><integer>5034</integer>
+			<key>Name</key><string>Joy to the World</string>
+			<key>Artist</key><string>Mitchell Tenpenny</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5727684</integer>
+			<key>Total Time</key><integer>156253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-29T04:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3720856474</integer>
+			<key>Play Date UTC</key><date>2021-11-27T18:14:34Z</date>
+			<key>Release Date</key><date>2020-10-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny</string>
+			<key>Sort Name</key><string>Joy to the World</string>
+			<key>Persistent ID</key><string>9FAF5E4D54B4D681</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5037</key>
+		<dict>
+			<key>Track ID</key><integer>5037</integer>
+			<key>Name</key><string>Don't Hang the Mistletoe</string>
+			<key>Artist</key><string>Mitchell Tenpenny</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Mitchell Tenpenny, Kyle Clark &#38; Jordan M. Schmidt</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7368766</integer>
+			<key>Total Time</key><integer>202316</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-29T04:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-17T00:18:57Z</date>
+			<key>Release Date</key><date>2021-10-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny</string>
+			<key>Sort Name</key><string>Don't Hang the Mistletoe</string>
+			<key>Persistent ID</key><string>6D266EF1FB0FD537</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5040</key>
+		<dict>
+			<key>Track ID</key><integer>5040</integer>
+			<key>Name</key><string>I Hope It Snows</string>
+			<key>Artist</key><string>Mitchell Tenpenny &#38; Meghan Patrick</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Mitchell Tenpenny, Meghan Patrick &#38; Jeff Cibulka</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8464498</integer>
+			<key>Total Time</key><integer>239280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-29T04:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3723198888</integer>
+			<key>Play Date UTC</key><date>2021-12-24T20:54:48Z</date>
+			<key>Release Date</key><date>2021-10-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny &#38; Meghan Patrick</string>
+			<key>Sort Name</key><string>I Hope It Snows</string>
+			<key>Persistent ID</key><string>6C4D8974D1C7734E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5043</key>
+		<dict>
+			<key>Track ID</key><integer>5043</integer>
+			<key>Name</key><string>Santa Claus is Comin' to Town</string>
+			<key>Artist</key><string>Mitchell Tenpenny</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Fred J. Coots &#38; Haven Gillespie</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5345796</integer>
+			<key>Total Time</key><integer>142351</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-29T04:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-27T19:04:14Z</date>
+			<key>Release Date</key><date>2021-10-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny</string>
+			<key>Sort Name</key><string>Santa Claus is Comin' to Town</string>
+			<key>Persistent ID</key><string>E46DC1A7887CCD52</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5046</key>
+		<dict>
+			<key>Track ID</key><integer>5046</integer>
+			<key>Name</key><string>Have Yourself a Merry Little Christmas</string>
+			<key>Artist</key><string>Mitchell Tenpenny</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Hugh Martin &#38; Ralph Blane</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6998955</integer>
+			<key>Total Time</key><integer>189343</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-29T04:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3720855843</integer>
+			<key>Play Date UTC</key><date>2021-11-27T18:04:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-24T20:49:26Z</date>
+			<key>Release Date</key><date>2018-10-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny</string>
+			<key>Sort Name</key><string>Have Yourself a Merry Little Christmas</string>
+			<key>Persistent ID</key><string>6B9140B0B8F120F8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5049</key>
+		<dict>
+			<key>Track ID</key><integer>5049</integer>
+			<key>Name</key><string>Snow Angels</string>
+			<key>Artist</key><string>Mitchell Tenpenny</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Mitchell Tenpenny, Ernest Keith Smith &#38; Rafe Tenpenny</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6831282</integer>
+			<key>Total Time</key><integer>185627</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-29T04:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3720691020</integer>
+			<key>Play Date UTC</key><date>2021-11-25T20:17:00Z</date>
+			<key>Release Date</key><date>2020-10-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny</string>
+			<key>Sort Name</key><string>Snow Angels</string>
+			<key>Persistent ID</key><string>BD935CAEC268FBD0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5052</key>
+		<dict>
+			<key>Track ID</key><integer>5052</integer>
+			<key>Name</key><string>O Holy Night</string>
+			<key>Artist</key><string>Mitchell Tenpenny</string>
+			<key>Album Artist</key><string>Mitchell Tenpenny</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>Naughty List</string>
+			<key>Genre</key><string>Country</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7511220</integer>
+			<key>Total Time</key><integer>212760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-10-09T13:40:08Z</date>
+			<key>Date Added</key><date>2021-10-29T04:06:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3720858527</integer>
+			<key>Play Date UTC</key><date>2021-11-27T18:48:47Z</date>
+			<key>Release Date</key><date>2020-10-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Naughty List</string>
+			<key>Sort Artist</key><string>Mitchell Tenpenny</string>
+			<key>Sort Name</key><string>O Holy Night</string>
+			<key>Persistent ID</key><string>148F99BFB2951405</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5073</key>
+		<dict>
+			<key>Track ID</key><integer>5073</integer>
+			<key>Name</key><string>Officially Christmas</string>
+			<key>Artist</key><string>Dan + Shay</string>
+			<key>Album Artist</key><string>Dan + Shay</string>
+			<key>Composer</key><string>Dan Smyers, Dave Barnes, Jordan Reynolds &#38; Nicolle Galyon</string>
+			<key>Album</key><string>Officially Christmas - Single</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6500016</integer>
+			<key>Total Time</key><integer>178387</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-11-10T00:07:55Z</date>
+			<key>Date Added</key><date>2021-11-10T00:07:59Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3723200038</integer>
+			<key>Play Date UTC</key><date>2021-12-24T21:13:58Z</date>
+			<key>Release Date</key><date>2021-11-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Officially Christmas - Single</string>
+			<key>Sort Artist</key><string>Dan + Shay</string>
+			<key>Sort Name</key><string>Officially Christmas</string>
+			<key>Persistent ID</key><string>8E5942E09AA73744</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>5163</key>
+		<dict>
+			<key>Track ID</key><integer>5163</integer>
+			<key>Name</key><string>You're a Mean One, Mr. Grinch</string>
+			<key>Artist</key><string>Tyler, The Creator</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Theodore Geisel &#38; Albert Hague</string>
+			<key>Album</key><string>Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4180081</integer>
+			<key>Total Time</key><integer>108987</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-11-19T22:09:53Z</date>
+			<key>Date Added</key><date>2022-04-03T17:52:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2018-10-24T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Tyler, The Creator</string>
+			<key>Sort Name</key><string>You're a Mean One, Mr. Grinch</string>
+			<key>Persistent ID</key><string>FEEFC9CE0A283284</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5176</key>
+		<dict>
+			<key>Track ID</key><integer>5176</integer>
+			<key>Name</key><string>Last Christmas</string>
+			<key>Artist</key><string>Wham!</string>
+			<key>Album Artist</key><string>George Michael</string>
+			<key>Composer</key><string>George Michael</string>
+			<key>Album</key><string>Twenty Five</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9376310</integer>
+			<key>Total Time</key><integer>267105</integer>
+			<key>Disc Number</key><integer>2</integer>
+			<key>Disc Count</key><integer>3</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2021-11-30T00:33:39Z</date>
+			<key>Date Added</key><date>2022-04-03T17:52:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>1984-01-01T08:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Twenty Five</string>
+			<key>Sort Artist</key><string>Wham!</string>
+			<key>Sort Name</key><string>Last Christmas</string>
+			<key>Persistent ID</key><string>5B872BA965B8D512</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>5180</key>
+		<dict>
+			<key>Track ID</key><integer>5180</integer>
+			<key>Name</key><string>The First Noël (with Faith Hill)</string>
+			<key>Artist</key><string>Josh Groban</string>
+			<key>Album Artist</key><string>Josh Groban</string>
+			<key>Composer</key><string>Traditional</string>
+			<key>Album</key><string>Noël (Deluxe Edition)</string>
+			<key>Genre</key><string>Holiday</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>9578990</integer>
+			<key>Total Time</key><integer>273610</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-11-30T00:42:41Z</date>
+			<key>Date Added</key><date>2022-04-03T17:52:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2007-10-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Noël (Deluxe Edition)</string>
+			<key>Sort Artist</key><string>Josh Groban</string>
+			<key>Sort Name</key><string>First Noël (with Faith Hill)</string>
+			<key>Persistent ID</key><string>2A93CCA7EACC7379</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Christmas 🎄</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>5988</integer>
+			<key>Playlist Persistent ID</key><string>A9A0F09DF46BD13E</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4119</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4689</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4692</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4569</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4548</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4545</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4554</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4563</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4551</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5073</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4686</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4200</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5180</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4220</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4113</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4107</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5037</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5046</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5034</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5025</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5043</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5049</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4058</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4064</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4055</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4049</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4046</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4075</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4103</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4099</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4067</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4083</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4079</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4095</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4650</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4653</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4665</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4659</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4662</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4674</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4037</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5176</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
