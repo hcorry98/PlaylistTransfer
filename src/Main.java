@@ -1,5 +1,9 @@
+import se.michaelthelin.spotify.model_objects.specification.Track;
+
+import java.io.BufferedWriter;
 import java.io.File;
-import java.lang.reflect.Array;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 
@@ -12,48 +16,82 @@ public class Main {
             encoder.encodePlaylist(file);
         }
 
-        SpotifyHandler handler = new SpotifyHandler();
-        AuthToken authToken = handler.authorize();
+        Handler handler = new Handler();
+        ArrayList<ArrayList<Track>> allTracks = searchForSongs(encoder, handler);
 
-        ArrayList<Playlist> playlists = encoder.getPlaylists();
-        ArrayList<ArrayList<String>> playlistURIs = new ArrayList<>();
-        ArrayList<Playlist> playlistsNotFound = new ArrayList<>();
-        int nf = 0;
-        for (Playlist p : playlists) {
+        ArrayList<ArrayList<String>> allURIs = retrieveURIs(allTracks);
+
+        try {
+            writeFile("My Mix.txt", allURIs.get(0));
+            writeFile("Christmas.txt", allURIs.get(1));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    private static void writeFile(String fileName, ArrayList<String> uris) throws IOException {
+        String str = compileURIs(uris);
+        BufferedWriter writer = new BufferedWriter(new FileWriter(fileName));
+        writer.write(str);
+
+        writer.close();
+    }
+
+    private static String compileURIs(ArrayList<String> uris) {
+        StringBuilder str = new StringBuilder();
+        int i = 0;
+        for (String uri : uris) {
+            str.append(uri);
+            str.append(",");
+            i++;
+            if (i >= 20) {
+                str.delete(str.length() - 1, str.length());
+                str.append("\n\n");
+                i = 0;
+            }
+        }
+        str.delete(str.length() - 1, str.length());
+        return str.toString();
+    }
+
+    private static ArrayList<ArrayList<String>> retrieveURIs(ArrayList<ArrayList<Track>> allTracks) {
+        ArrayList<ArrayList<String>> allURIs = new ArrayList<>();
+        for (ArrayList<Track> tracks : allTracks) {
             ArrayList<String> URIs = new ArrayList<>();
-            Playlist notFound = new Playlist();
+            for (Track track : tracks) {
+                URIs.add(track.getUri());
+            }
+            allURIs.add(URIs);
+        }
+        return allURIs;
+    }
 
-            int i = 0;
-            for (Song s : p.getSongs()) {
-                String uri = handler.search(s, authToken);
-                s.setURI(uri);
-                if (!uri.equals("NOT FOUND")) {
-                    URIs.add(uri);
+    private static ArrayList<ArrayList<Track>> searchForSongs(Encoder encoder, Handler handler) {
+        ArrayList<Playlist> playlists = encoder.getPlaylists();
+        ArrayList<ArrayList<Track>> allTracks = new ArrayList<>();
+        ArrayList<Playlist> missingSongs = new ArrayList<>();
+        for (Playlist playlist : playlists) {
+            ArrayList<Track> tracks = new ArrayList<>();
+            Playlist notFound = new Playlist("Not Found");
+            for (Song song : playlist.getSongs()) {
+                Track track = handler.searchTracks(song);
+                if (track != null) {
+                    tracks.add(track);
+                    //System.out.println(track.getName() + " - " + track.getArtists()[0].getName());
                 }
                 else {
-                    notFound.addSong(s);
-                    System.out.println(s);
-                    nf++;
-                }
-                i++;
-                if (i >= 10) {
-                    i = 0;
-                    try {
-                        TimeUnit.SECONDS.sleep(1);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
+                    notFound.addSong(song);
+                    System.out.println("NOT FOUND - " + song.getTitle() + " | " + song.getArtist());
+
                 }
             }
-            playlistURIs.add(URIs);
-            playlistsNotFound.add(notFound);
-            System.out.println();
-            System.out.println(nf);
-            nf = 0;
+            allTracks.add(tracks);
+            missingSongs.add(notFound);
+            System.out.println(notFound.getSongs().size());
             System.out.println("\n");
-
         }
 
+        return allTracks;
     }
 
     private static ArrayList<String> listFilesForFolder(final File folder) {
