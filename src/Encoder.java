@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Encoder {
 
-    private ArrayList<Playlist> playlists = new ArrayList<>();
+    private final ArrayList<Playlist> playlists = new ArrayList<>();
 
     public Encoder() {
     }
@@ -31,12 +31,12 @@ public class Encoder {
     }
     
     public String toString() {
-        String str = null;
+        StringBuilder str = new StringBuilder();
         int i = 1;
         for (Playlist p : playlists) {
-            str += "PLAYLIST(" + i++ + "): ";
-            str += p.toString() + "\n\n";
+            str.append("PLAYLIST(").append(i++).append("): ");
+            str.append(p.toString()).append("\n\n");
         }
-        return str;
+        return str.toString();
     }
 }

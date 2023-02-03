@@ -1,9 +1,9 @@
 public class Song {
 
-    private String title;
+    private final String title;
     private String artist;
     private String album;
-    private String uri;
+    private final String uri;
     private String id;
 
     public Song() {
@@ -34,9 +34,6 @@ public class Song {
         return title;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
 
     public String getArtist() {
         return artist;
@@ -54,19 +51,8 @@ public class Song {
         this.album = album;
     }
 
-    public void setURI(String uri) {
-        this.uri = uri;
-        if (!uri.equals("NOT FOUND")) {
-            setID(uri.split(":")[2]);
-        }
-    }
-
     public void setID(String id) {
         this.id = id;
-    }
-
-    public String getURI() {
-        return uri;
     }
 
     public String getID() {

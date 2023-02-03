@@ -4,7 +4,7 @@ import java.util.ArrayList;
 public class Parser {
 
     private final String filePath;
-    private ArrayList<String[]> elements = new ArrayList<>();
+    private final ArrayList<String[]> elements = new ArrayList<>();
 
     public Parser(String fPath) {
         filePath = fPath;
@@ -50,12 +50,15 @@ public class Parser {
         if (line.length == 4) {
             String key = line[1].split("<")[0];
             switch (key) {
-                case "Name":
+                case "Name" -> {
                     return "Name/" + line[3].split("<")[0];
-                case "Artist":
+                }
+                case "Artist" -> {
                     return "Artist/" + line[3].split("<")[0];
-                case "Album":
+                }
+                case "Album" -> {
                     return "Album/" + line[3].split("<")[0];
+                }
             }
         }
 

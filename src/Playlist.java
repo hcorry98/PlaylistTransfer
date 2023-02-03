@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Playlist {
 
-    private String playlistName;
+    private final String playlistName;
     private ArrayList<Song> songs;
 
     public Playlist() {
@@ -30,13 +30,13 @@ public class Playlist {
     }
 
     public String toString() {
-        String str = "";
-        str += playlistName + "\n";
-        str += "NUMBER OF SONGS: " + getCount() + "\n";
+        StringBuilder str = new StringBuilder();
+        str.append(playlistName).append("\n");
+        str.append("NUMBER OF SONGS: ").append(getCount()).append("\n");
         for (Song song : songs) {
-            str += song.toString() + "\n";
+            str.append(song.toString()).append("\n");
         }
-        return str;
+        return str.toString();
     }
 
     public int getCount() {
@@ -51,11 +51,4 @@ public class Playlist {
         songs = s;
     }
 
-    public String getPlaylistName() {
-        return playlistName;
-    }
-
-    public void setPlaylistName(String name) {
-        playlistName = name;
-    }
 }

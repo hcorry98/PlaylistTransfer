@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.concurrent.TimeUnit;
+import java.util.Objects;
 
 public class Main {
     public static void main(String[] args) {
@@ -90,13 +90,14 @@ public class Main {
             System.out.println(notFound.getSongs().size());
             System.out.println("\n");
         }
+        System.out.println(missingSongs.size());
 
         return allTracks;
     }
 
     private static ArrayList<String> listFilesForFolder(final File folder) {
         ArrayList<String> files = new ArrayList<>();
-        for (final File fileEntry : folder.listFiles()) {
+        for (final File fileEntry : Objects.requireNonNull(folder.listFiles())) {
             if (fileEntry.isDirectory()) {
                 listFilesForFolder(fileEntry);
             } else if (fileEntry.getName().split("\\.")[1].equalsIgnoreCase("xml")) {

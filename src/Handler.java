@@ -1,7 +1,6 @@
 import com.neovisionaries.i18n.CountryCode;
 import org.apache.hc.core5.http.ParseException;
 import se.michaelthelin.spotify.SpotifyApi;
-import se.michaelthelin.spotify.enums.ModelObjectType;
 import se.michaelthelin.spotify.exceptions.SpotifyWebApiException;
 import se.michaelthelin.spotify.model_objects.credentials.ClientCredentials;
 import se.michaelthelin.spotify.model_objects.specification.ArtistSimplified;
@@ -25,20 +24,18 @@ public class Handler {
     private static final ClientCredentialsRequest clientCredentialsRequest = spotifyApi.clientCredentials()
             .build();
 
-    private static final String type = ModelObjectType.TRACK.getType();
-
     public Handler() {
         clientCredentials();
     }
 
-    public static Track searchTracks(Song song) {
-        String simplifiedTitle = song.getTitle().replaceAll("\\([^\\)]*\\)", "");
+    public Track searchTracks(Song song) {
+        String simplifiedTitle = song.getTitle().replaceAll("\\([^)]*\\)", "");
         simplifiedTitle = simplifiedTitle.replaceAll("&#38;", "&").trim();
 
-        String simplifiedArtist = song.getArtist().replaceAll("\\([^\\)]*\\)", "");
+        String simplifiedArtist = song.getArtist().replaceAll("\\([^)]*\\)", "");
         simplifiedArtist = simplifiedArtist.replaceAll(" &#38;", ", ").trim();
 
-        String simplifiedAlbum = song.getAlbum().replaceAll("\\([^\\)]*\\)", "");
+        String simplifiedAlbum = song.getAlbum().replaceAll("\\([^)]*\\)", "");
         simplifiedAlbum = simplifiedAlbum.split(" - Single")[0];
         simplifiedAlbum = simplifiedAlbum.split(" - EP")[0];
         simplifiedAlbum = simplifiedAlbum.replaceAll("&#38;", "&").trim();
@@ -55,7 +52,7 @@ public class Handler {
                     artists.add(artist.getName());
                 }
                 if (artists.contains(song.getArtist().split(" &#38")[0])) {
-                    String trackAlbumSimplified = t.getAlbum().getName().replaceAll("\\([^\\)]*\\)", "").trim();
+                    String trackAlbumSimplified = t.getAlbum().getName().replaceAll("\\([^)]*\\)", "").trim();
                     if (trackAlbumSimplified.equalsIgnoreCase(simplifiedAlbum) || trackAlbumSimplified.contains(simplifiedAlbum) || simplifiedAlbum.contains(trackAlbumSimplified)) {
                         return t;
                     }
